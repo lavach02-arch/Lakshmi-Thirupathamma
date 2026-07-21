@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm CH. Lakshmi Thirupathamma</h1>
 
 <h3 align="center">
-🚀 B.Tech Advanced Computer Science Engineering Student | Python Developer | Software Engineer Aspirant
+🚀 Final-Year B.Tech Information Technology Student | Full -Stack  Developer | Software Engineer Aspirant
 </h3>
 
 <p align="center">
